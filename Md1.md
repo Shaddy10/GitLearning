@@ -7,6 +7,8 @@ The Nissan GTR is a high-performance sports car manufactured by Nissan, a Japane
 - Horsepower: 565 hp
 - Acceleration: 0-60 mph in 2.9 seconds
 - Top Speed: 196 mph
+- Tag name: Godzilla
+- Movie reference: Fast and Furious franchise, Paul Walker's Car
 
 ## Features:
 - All-wheel drive

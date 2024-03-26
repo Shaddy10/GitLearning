@@ -7,6 +7,8 @@ The Dodge Charger is a classic American muscle car manufactured by Dodge, an Ame
 - Horsepower: varies by trim (e.g., 370 hp to 707 hp)
 - Acceleration: varies by trim (e.g., 0-60 mph in 3.4 seconds)
 - Top Speed: varies by trim (e.g., 155 mph to 204 mph)
+- Tag name: Beast
+- Movie Reference: Fast and Furious Franchise, Vin Diesel's Car
 
 ## Features:
 - Rear-wheel drive or all-wheel drive
